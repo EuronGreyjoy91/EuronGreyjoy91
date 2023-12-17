@@ -7,6 +7,6 @@
 ![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=gray)
 
 [![](https://github-readme-stats-EuronGreyjoy91.vercel.app/api?username=EuronGreyjoy91&show_icons=true&count_private=true)](https://github.com/EuronGreyjoy91)
-![Top Langs](https://github-readme-stats-EuronGreyjoy91.vercel.app/api/top-langs/?username=EuronGreyjoy91&layout=compact)
 
+[![](https://github-readme-stats-EuronGreyjoy91.vercel.app/api?username=EuronGreyjoy91&show_icons=true&count_private=true)](https://github.com/EuronGreyjoy91)
 ![EuronGreyjoy91's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuronGreyjoy91&show_icons=true&theme=radical)
