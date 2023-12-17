@@ -1,5 +1,5 @@
 # 👋 ・ Welcome
-![](https://komarev.com/ghpvc/?username=EuronGreyjoy91) [![wakatime](https://wakatime.com/badge/user/9839bef7-5c8c-4e91-a766-88bb9e8c3e1e.svg)](https://wakatime.com/@9839bef7-5c8c-4e91-a766-88bb9e8c3e1e)
+![](https://komarev.com/ghpvc/?username=EuronGreyjoy91) [![wakatime](https://wakatime.com/badge/user/52301500.svg)](https://wakatime.com/@9839bef7-5c8c-4e91-a766-88bb9e8c3e1e)
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=2f74c0)
