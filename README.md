@@ -8,10 +8,6 @@
 ![EuronGreyjoy91's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuronGreyjoy91&show_icons=true&theme=radical)
 
 
-## Hi!  
-
-
-
 <a href="https://github.com/EuronGreyjoy91/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuronGreyjoy91&layout=compact&theme=material-palenight&hide_border=true" /></a>
 
 
