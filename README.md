@@ -1,6 +1,4 @@
 # 👋 ・ Welcome
-![](https://komarev.com/ghpvc/?username=EuronGreyjoy91)
-
 
 [![](https://github-readme-stats-EuronGreyjoy91.vercel.app/api?username=EuronGreyjoy91&show_icons=true&count_private=true)](https://github.com/EuronGreyjoy91)
 
