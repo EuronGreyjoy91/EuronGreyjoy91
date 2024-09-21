@@ -19,4 +19,6 @@
  <a href="https://github.com/FiammaMuscari](https://github.com/EuronGreyjoy91/EuronGreyjoy91/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiammaMuscari&layout=compact&theme=material-palenight&hide_border=true" /></a>
  
 📫 Contact 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fiamma-muscari/](https://www.linkedin.com/in/federico-ignacio-ibarra-berardi-015b13124/)](https://www.linkedin.com/feed/))
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-ignacio-ibarra-berardi-015b13124/)
