@@ -1,11 +1,13 @@
 # 👋 ・ Welcome
 
-[![](https://github-readme-stats-EuronGreyjoy91.vercel.app/api?username=EuronGreyjoy91&show_icons=true&count_private=true)](https://github.com/EuronGreyjoy91)
-![EuronGreyjoy91's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuronGreyjoy91&show_icons=true&theme=radical)
-
-<a href="https://github.com/EuronGreyjoy91/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuronGreyjoy91&layout=compact&theme=material-palenight&hide_border=true" /></a>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuronGreyjoy91&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages" style="width: 39%; margin-left: 5%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EuronGreyjoy91&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" style="width: 39%; margin-right: 5%;" />
+</div>
 
 ![](https://komarev.com/ghpvc/?username=EuronGreyjoy91)
+
+
 📫 Contact 
 
 
